@@ -1,0 +1,14 @@
+{
+  "SIDECAR": "stage.venv",
+  "WININET": "wininet.dll",
+  "AMSI_DLL": "amsi.dll",
+  "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+  "NO_STAGE": "no stage",
+  "FRAG1": "vanta:6f3a",
+  "OUTER_LABEL": "vanta/outer/v1",
+  "PERM_LABEL": "vanta/perm/v1",
+  "MASK_LABEL": "vanta/mask/v1",
+  "AEAD_LABEL": "vanta/aead/v1",
+  "DEV_ENTRY": "[vanta/dev] entry",
+  "DEV_REJECT": "[vanta/dev] envelope rejected"
+}
